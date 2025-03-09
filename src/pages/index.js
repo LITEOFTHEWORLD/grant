@@ -5,7 +5,7 @@ import AOS from "aos";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper/modules";
 
-//test
+//test new
 
 // Import required CSS
 import "bootstrap/dist/css/bootstrap.min.css";
